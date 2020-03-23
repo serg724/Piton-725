@@ -1,4 +1,1 @@
 present ("welcome")
-
-kapper ("Kapper")
-
